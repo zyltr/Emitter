@@ -1,11 +1,3 @@
-//
-//  AppDelegate.swift
-//  Emitter
-//
-//  Created by Erik on 1/10/19.
-//  Copyright © 2019 Organization. All rights reserved.
-//
-
 import UIKit
 
 @UIApplicationMain
